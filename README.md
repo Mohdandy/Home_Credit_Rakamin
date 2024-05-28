@@ -15,3 +15,5 @@ Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Results :  ##
 The analysis revealed that the KNN model, with an precision of 77%, was the most effective in predicting clients' repayment capabilities. 
+
+home_credit_dandy.ipynb contain python notebook for this project
